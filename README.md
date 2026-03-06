@@ -96,7 +96,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 
 ## Projects
 
-### Project 1 : Classification of Breast Cancer Using BUS Images
+### Project 1 : Classification of Breast Cancer using Ultrasound Images
 
 1. This project aims to develop an automated breast cancer classification system using deep learning techniques to distinguish between benign and malignant tumors from BUS images. The dataset is located in the `data/Breast data` directory.
 2. The study will utilize the BUS-BRA Breast Ultrasound Dataset, which contains annotated ultrasound images with pathology-confirmed labels and lesion segmentation masks.
