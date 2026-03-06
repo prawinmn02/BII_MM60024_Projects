@@ -21,7 +21,7 @@
     - [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques)
     - [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods)
     - [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging)
-    - [Project 7 : ](#project-7--)
+    - [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images)
   - [Resources](#resources)
   - [All the best!](#all-the-best)
 
@@ -91,7 +91,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 |  | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
 |  | [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods) | _ |
 |  | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
-|  |  | _ |
+|  | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
 
 
 ## Projects
@@ -157,6 +157,18 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 5. The developed system can assist healthcare professionals by supporting early diagnosis of prostate cancer, which may help improve clinical decision-making and patient care.
 
 
+### Project 6 : Pneumonia Detection Using Chest X-ray Imaging
+
+### Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images
+
+1. The project's aim is to develop an automated tumor segmentation method that can accurately identify and delineate tumor regions in breast ultrasound images.
+2. The project uses the BUS-BRA Breast Ultrasound Dataset (`data/Breast data`), which contains 1,875 ultrasound images from 1,064 patients with annotated tumor boundaries and pathology information.
+3. The dataset includes biopsy-confirmed benign and malignant tumors, along with expert-annotated segmentation masks that define the exact tumor region in each image.
+4. Image preprocessing techniques such as noise reduction, normalization, resizing, and data augmentation will be applied to improve model robustness.
+5. A deep learning segmentation model, such as U-Net, Attention U-Net, or nnU-Net, will be trained to automatically detect and segment tumor regions in ultrasound images.
+6. The model will learn to classify each pixel as tumor or background, generating a segmentation mask that outlines the tumor boundaries.
+7. The performance of the segmentation model will be evaluated using `Dice coefficient`, and `Intersection over Union (IoU)`.
+8. The developed method can assist radiologists by providing accurate tumor localization and boundary detection, which may support diagnosis, treatment planning, and computer-aided diagnosis systems.
 
 ---
 ## Resources
