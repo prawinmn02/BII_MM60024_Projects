@@ -145,6 +145,18 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
    - `Prediction Task`: Detection of cervical cancer: Learn classification algorithms such as Logistic Regression, Decision Tree, Random Forest, or Support Vector Machine will be used to build the prediction model, and evaluate model performance using metrics such as `accuracy`, `precision`, `recall`, `F1-score`, and `confusion matrix`.
 6. The developed system can assist healthcare professionals in identifying women at high risk of cervical cancer, enabling early screening and preventive treatment.
 
+### Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods
+
+1. The objective of this project is to develop a machine learning model for predicting prostate cancer based on tumor characteristics extracted from medical data.
+2. It contains data from 100 patients with multiple tumor-related features and includes 10 attributes, such as `radius`, `texture`, `perimeter`, `area`, `smoothness`, `compactness`, `symmetry`, and `fractal dimension`, which describe tumor characteristics.
+3. The target variable (`diagnosis_result`) indicates whether the tumor is `benign` (non-cancerous) or `malignant` (cancerous).
+4. The project is divided into following parts:-
+   - `Data Preprocessing and Cleaning`: handling missing values, feature selection, and normalization will be applied to improve data quality and model performance.
+   - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
+   - `Prediction Task`: Detection of cervical cancer: Learn classification algorithms such as Logistic Regression, Decision Tree, Random Forest, or Support Vector Machine will be used to build the prediction model, and evaluate model performance using metrics such as `accuracy`, `precision`, `recall`, `F1-score`, and `confusion matrix`.
+5. The developed system can assist healthcare professionals by supporting early diagnosis of prostate cancer, which may help improve clinical decision-making and patient care.
+
+
 
 ---
 ## Resources
