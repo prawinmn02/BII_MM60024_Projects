@@ -15,7 +15,7 @@
     - [Deadline](#deadline)
   - [Project Allocation](#project-allocation)
   - [Projects](#projects)
-    - [Project 1 : Classification of Breast Cancer using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-from-Ultrasound-Images)
+    - [Project 1 : Classification of Breast Cancer Using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-Using-Ultrasound-Images)
     - [Project 2 : Maternal Health Risk Prediction in Personalized Patient Care](#project-2--Maternal-Health-Risk-Prediction-in-Personalized-Patient-Care)
     - [Project 3 : Early Detection of Coronary Heart Disease](#project-3--Early-Detection-of-Coronary-Heart-Disease)
     - [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques)
@@ -85,7 +85,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
 |:---------------------------:|:-----------------------------:|:------------------:|
-|  | [Project 1 : Classification of Breast Cancer using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-from-Ultrasound-Images) | _ |
+|  | [Project 1 : Classification of Breast Cancer Using Ultrasound Images](#project-1--Classification-of-Breast-Cancer-Using-Ultrasound-Images) | _ |
 |  | [Project 2 : Maternal Health Risk Prediction in Personalized Patient Care](#project-2--Maternal-Health-Risk-Prediction-in-Personalized-Patient-Care) | _ |
 |  | [Project 3 : Early Detection of Coronary Heart Disease](#project-3--Early-Detection-of-Coronary-Heart-Disease) | _ |
 |  | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
