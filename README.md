@@ -162,7 +162,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 ### Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images
 
 1. The project's aim is to develop an automated tumor segmentation method that can accurately identify and delineate tumor regions in breast ultrasound images.
-2. The project uses the BUS-BRA Breast Ultrasound Dataset (`data/Breast data`), which contains 1,875 ultrasound images from 1,064 patients with annotated tumor boundaries and pathology information.
+2. The project uses the BUS-BRA Breast Ultrasound Dataset (`data/Breast data`), which contains 60 patients with annotated tumor boundaries and pathology information.
 3. The dataset includes biopsy-confirmed benign and malignant tumors, along with expert-annotated segmentation masks that define the exact tumor region in each image.
 4. Image preprocessing techniques such as noise reduction, normalization, resizing, and data augmentation will be applied to improve model robustness.
 5. A deep learning segmentation model, such as U-Net, Attention U-Net, or nnU-Net, will be trained to automatically detect and segment tumor regions in ultrasound images.
