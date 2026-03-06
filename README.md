@@ -147,7 +147,7 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 
 ### Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods
 
-1. The objective of this project is to develop a machine learning model for predicting prostate cancer based on tumor characteristics extracted from medical data.
+1. The objective of this project is to develop a machine learning model for predicting prostate cancer based on tumor characteristics extracted from medical data. The data is available at `data/Prostate data`
 2. It contains data from 100 patients with multiple tumor-related features and includes 10 attributes, such as `radius`, `texture`, `perimeter`, `area`, `smoothness`, `compactness`, `symmetry`, and `fractal dimension`, which describe tumor characteristics.
 3. The target variable (`diagnosis_result`) indicates whether the tumor is `benign` (non-cancerous) or `malignant` (cancerous).
 4. The project is divided into following parts:-
