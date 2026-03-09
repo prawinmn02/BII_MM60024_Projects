@@ -161,7 +161,13 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 
 ### Project 6 : Pneumonia Detection Using Chest X-ray Imaging
 
-
+1. Pneumonia is a serious lung infection that can cause inflammation in the air sacs of the lungs and may become life-threatening if not detected early. The objective of this project is to develop a deep learning-based system to automatically detect pneumonia from chest X-ray images.
+2. The project uses the Chest X-Ray Pneumonia Dataset, available at `data/Chest X-ray`, which contains labeled chest radiography images for pneumonia diagnosis.
+3. The dataset consists of approximately 5,800 chest X-ray images, divided into two classes: Normal and Pneumonia. The images are organized into training, validation, and test sets, allowing proper training and evaluation of machine learning models.
+4. Image preprocessing techniques such as `resizing`, `normalization`, and `data augmentation` will be applied to improve model performance and reduce overfitting.
+5. A Convolutional Neural Network (`CNN`) will be used to automatically extract features from chest X-ray images. The trained model will classify the input X-ray image into pneumonia-infected or normal lung condition.
+6. Model performance will be evaluated using `accuracy`, `precision`, `recall`, `F1-score`, and `confusion matrix`.
+7. The developed system can assist doctors and radiologists by providing a computer-aided diagnostic tool for early detection of pneumonia, improving healthcare efficiency and patient outcomes.
 
 
 ### Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images
@@ -180,10 +186,10 @@ The deadline for the final project submission is _th April 2026, 23:59 IST**.
 
 1. Liver cirrhosis is a chronic and progressive liver disease that can lead to severe complications and high mortality if not diagnosed and treated in time.
 2. The objective of this project is to develop an explainable machine learning model to predict the survival outcomes of liver cirrhosis patients using clinical and laboratory data.
-3. The dataset is availabale at ``, which contains patient medical records related to liver cirrhosis and includes multiple clinical features such as `age`, `sex`, `bilirubin`, `cholesterol`, `albumin`, `platelet count`, `prothrombin time`, and `disease stage`, which are important indicators of liver health.
-4. The project is divided into following parts:-
+3. The dataset is available at `data/cirrhosis`, which contains patient medical records related to liver cirrhosis and includes multiple clinical features such as `age`, `sex`, `bilirubin`, `cholesterol`, `albumin`, `platelet count`, `prothrombin time`, and `disease stage`, which are important indicators of liver health.
+4. The project is divided into the following parts:-
    - `Data Preprocessing and Cleaning`: handling missing values, feature selection, and normalization will be applied to improve data quality and model performance.
-   - `Data Analysis` is including visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
+   - `Data Analysis` includes visualization (e.g., histograms, scatter plots, box plots) and calculating correlations between features.
    - `Prediction Task`: Learn a machine learning algorithm such as Survival Support Vector Machine will be used to predict patient survival outcomes, and evaluate the prediction model.
    - `Explainability`: To improve model transparency, Explainable Artificial Intelligence (XAI) techniques such as SHAP (SHapley Additive exPlanations) or LIME (Local Interpretable Model-agnostic Explanations) will be applied to identify the most influential clinical factors affecting survival predictions.
 5. The proposed explainable system aims to assist clinicians in understanding important risk factors and improving clinical decision-making for liver cirrhosis patient management.
