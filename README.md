@@ -94,7 +94,7 @@ The deadline for the final project submission is April 2026, 23:59 IST. (will up
 |  | [Project 3 : Early Detection of Coronary Heart Disease](#project-3--Early-Detection-of-Coronary-Heart-Disease) | _ |
 | Group 4 | [Project 4 : Cervical Cancer Diagnosis Based on Machine Learning Techniques](#project-4--Cervical-Cancer-Diagnosis-Based-on-Machine-Learning-Techniques) | _ |
 |  | [Project 5 : Prostate Cancer Diagnosis Using Machine Learning Methods](#project-5--Prostate-Cancer-Diagnosis-Using-Machine-Learning-Methods) | _ |
-|  | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
+| Group 7 | [Project 6 : Pneumonia Detection Using Chest X-ray Imaging](#project-6--Pneumonia-Detection-Using-Chest-X-ray-Imaging) | _ |
 |  | [Project 7 : Automatic Tumor Segmentation from Breast Ultrasound Images](#project-7--Automatic-Tumor-Segmentation-from-Breast-Ultrasound-Images) | _ |
 | Group 12 | [Project 8 : Explainable Survival Prediction of Liver Cirrhosis Patients](#Project-8--Explainable-Survival-Prediction-of-Liver-Cirrhosis-Patients) | _ |
 |  | [Project 9 : Multiorgan Segmentation Using the AbdomenAtlas Mini Dataset](#Project-9--Multiorgan-Segmentation-Using-the-AbdomenAtlas-Mini-Dataset) | _ |
