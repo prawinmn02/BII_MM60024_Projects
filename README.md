@@ -86,7 +86,7 @@
 - Otherway, you can send a mail with subject `MM60024 : Biomedical Imaging Informatics Final Project (Project number) Submission - Group (Group number)` consisting your `Final Code` (.py or .ipynb) and `Final Report` (.pdf)
 
 ### Deadline
-The dates for the final project submission is 15th & 16th April and 1st May 2026, 23:59 IST. 
+The dates for the final project submission are 15th & 16th April and 30th April 2026, 23:59 IST. (Tentatively)
 
 ## Project Allocation
 |     Students                            | Project                |  Mentor TA    |
